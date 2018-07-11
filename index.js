@@ -2,3 +2,4 @@
 const currentUser = "Haley Braker";
 
 const welcomeMessage = "Welcome to Klossybook, " + currentUser + "!";
+
